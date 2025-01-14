@@ -152,6 +152,7 @@ CCTV-4,http://110.53.218.182:9902/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&
 CCTV-4,http://110.53.218.182:9902udp://@238.0.0.1:8004$湖南酒店源
 CCTV-4,http://59.173.243.210:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
 CCTV-4,http://220.249.114.102:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
+CCTV-4,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8$订阅源|1920x1080
 CCTV-4,http://111.9.163.109:9901/tsfile/live/0004_1.m3u8$订阅源
 CCTV-4,http://gslbserv.itv.cmvideo.cn/1000000005000265004/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265004&livemode=1&stbId=3$订阅源
 CCTV-4,http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265004&livemode=1&stbId=3$订阅源
@@ -172,7 +173,6 @@ CCTV-4,http://36.156.94.111/cucc-livod.ks-cdn.gitv.tv/gitv_live/G_CCTV-4-HQ/G_CC
 CCTV-4,http://61.173.144.157:9901/tsfile/live/0004_1.m3u8$订阅源
 CCTV-4,http://202.100.46.58:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
 CCTV-4,http://60.210.100.54:352/tsfile/live/0004_1.m3u8$订阅源
-CCTV-4,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8$订阅源
 CCTV-4,http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/playlist.m3u8$订阅源
 CCTV-4,http://dl.wifi942.com:66/jsyd/jsyd.php?id=G_CCTV-4-HD-265-8M$订阅源
 CCTV-4,http://120.76.248.139/live/bfgd/4200000063.m3u8$订阅源
@@ -794,7 +794,6 @@ CCTV-16,http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000/500000
 CCTV-16,http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000//1.m3u8?channel-id=bestzb&Contentid=5000000008000023254&livemode=1&stbId=3$订阅源
 CCTV-16,http://111.31.22.3/cache.ott.fifalive.itv.cmvideo.cn/000000001000/5000000008000023254/index.m3u8?channel-id=bestzb&Contentid=5000000008000023254&livemode=1&stbId=no$订阅源
 CCTV-16,http://39.134.136.161:6610/000000001000/5000000008000023254/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000008000023254$订阅源|1280x720
-CCTV-16,http://gmxw.7766.org:808/hls/169/index.m3u8$订阅源
 CCTV-16,https://api.olelive.com/dis/live/CCTV16HD/hls.m3u8$订阅源|1920x1080
 CCTV-16,http://202.100.46.58:9901/tsfile/live/1016_1.m3u8$订阅源
 CCTV-16,http://36.156.94.111/cucc-livod.ks-cdn.gitv.tv/gitv_live/G_CCTV-16-HQ/G_CCTV-16-HQ.m3u8$订阅源
