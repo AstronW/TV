@@ -6,9 +6,9 @@ CCTV-1,http://110.53.218.182:9902/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&
 CCTV-1,http://110.53.218.182:9902udp://@238.0.0.1:8001$湖南酒店源
 CCTV-1,http://58.19.38.162:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
 CCTV-1,https://api.olelive.com/dis/live/CCTV1HD/hls.m3u8$订阅源|1920x1080
-CCTV-1,http://120.76.248.139/live/bfgd/4200000488.m3u8$订阅源|1920x1080
 CCTV-1,http://z.b.bkpcp.top/m.php?id=cctv1$订阅源|1920x1080
 CCTV-1,http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000/6000000001000029752/1.m3u8?channel-id=wasusyt&Contentid=6000000001000029752&livemode=1&stbId=3$订阅源
+CCTV-1,http://120.76.248.139/live/bfgd/4200000488.m3u8$订阅源
 CCTV-1,http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265001&livemode=1&stbId=3$订阅源
 CCTV-1,http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000/1000000005000265002/index.m3u8?channel-id=ystenlive&Contentid=1000000005000265001&livemode=1&stbId=no$订阅源
 CCTV-1,http://116.9.204.242:9901/tsfile/live/0001_1.m3u8$订阅源
@@ -17,7 +17,7 @@ CCTV-1,http://61.138.128.226:19901/tsfile/live/0001_1.m3u8$订阅源
 CCTV-1,http://36.156.94.111/cucc-livod.ks-cdn.gitv.tv/gitv_live/G_CCTV-1-HQ/G_CCTV-1-HQ.m3u8$订阅源
 CCTV-1,http://61.136.172.236:9901/tsfile/live/0001_1.m3u8$订阅源
 CCTV-1,https://hlszymgsplive.miguvideo.com/wd_r2/cctv/cctv1hd/600/01.m3u8?msisdn=ab12973897c57b19ba4556b0e0b3dc34&mdspid=&spid=699004&netType=0&sid=2201057821&pid=2028597139&timestamp=20241123094415&Channel_ID=0131_10010001005&ProgramID=608807420&ParentNodeID=-99&assertID=2201057821&client_ip=140.249.97.59&SecurityKey=20241123094415&promotionId=&mvid=2201057821&mcid=500020&playurlVersion=WX-A1-7.11.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgsph5&tid=h5&mtv_session=c37abc9ac64bf515ea65940f46ca6868&sv=10000&ct=h5&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=b516f1c88e55405e93fac2f5a8e25cf3$订阅源
-CCTV-1,http://120.76.248.139/live/bfgd/4200000484.m3u8$订阅源|1920x1080
+CCTV-1,http://120.76.248.139/live/bfgd/4200000484.m3u8$订阅源
 CCTV-1,https://node1.olelive.com:6443/live/CCTV1HD/hls.m3u8$订阅源
 CCTV-1,http://dl.wifi942.com:66/jsyd/jsyd.php?id=G_CCTV-1-AVS-4K264$订阅源
 CCTV-1,http://dl.wifi942.com:66/jsyd/jsyd.php?id=G_CCTV-1-HD-265-8M$订阅源
@@ -82,7 +82,7 @@ CCTV-3,http://61.136.172.236:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&
 CCTV-3,http://110.53.218.182:9902/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0$湖南酒店源
 CCTV-3,http://110.53.218.182:9902udp://@238.0.0.1:8003$湖南酒店源
 CCTV-3,http://58.19.38.162:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
-CCTV-3,http://122.9.151.210:887/rtp/238.255.2.133:5999$组播源
+CCTV-3,http://59.173.243.210:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
 CCTV-3,http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000/1000000005000265003/index.m3u8?channel-id=ystenlive&Contentid=1000000005000265003&livemode=1&stbId=no$订阅源
 CCTV-3,http://gslbserv.itv.cmvideo.cn/1000000005000265003/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265003&livemode=1&stbId=3$订阅源
 CCTV-3,http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265003&livemode=1&stbId=3$订阅源
@@ -93,7 +93,7 @@ CCTV-3,http://218.3.138.25:1111/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&au
 CCTV-3,http://121.33.239.242:9901/tsfile/live/0003_1.m3u8$订阅源
 CCTV-3,http://36.156.94.111/cucc-livod.ks-cdn.gitv.tv/gitv_live/G_CCTV-3-HQ/G_CCTV-3-HQ.m3u8$订阅源
 CCTV-3,http://58.17.48.228:808/hls/3/index.m3u8$订阅源
-CCTV-3,http://120.76.248.139/live/bfgd/4200000062.m3u8$订阅源|1920x1080
+CCTV-3,http://120.76.248.139/live/bfgd/4200000062.m3u8$订阅源
 CCTV-3,http://dl.wifi942.com:66/jsyd/jsyd.php?id=G_CCTV-3-AVS-4K264$订阅源
 CCTV-3,http://dl.wifi942.com:66/jsyd/jsyd.php?id=G_CCTV-3-HD-265-8M$订阅源
 CCTV-3,http://202.100.46.58:9901/tsfile/live/1002_1.m3u8$订阅源
@@ -116,13 +116,13 @@ CCTV-3,http://116.9.204.242:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&a
 CCTV-3,http://58.17.116.69:9908/tsfile/live/0001_3.m3u8?key=txiptv&playlive=1&authid=0$订阅源
 CCTV-3,http://1.183.141.194:8001/hls/3/index.m3u8$订阅源
 CCTV-3,http://61.156.228.12:8154/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
+CCTV-3,http://122.9.151.210:887/rtp/238.255.2.133:5999$组播源
 CCTV-3,http://122.9.151.210:8088/rtp/238.255.2.133:5999$组播源
 CCTV-4,http://116.128.242.83:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0$北京酒店源
 CCTV-4,http://110.53.218.182:9902/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0$湖南酒店源
 CCTV-4,http://110.53.218.182:9902udp://@238.0.0.1:8004$湖南酒店源
 CCTV-4,http://58.19.38.162:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
-CCTV-4,http://122.9.151.210:887/rtp/238.255.2.92:5999$组播源
-CCTV-4,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8$订阅源|1920x1080
+CCTV-4,http://59.173.243.210:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
 CCTV-4,http://gslbserv.itv.cmvideo.cn/1000000005000265004/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265004&livemode=1&stbId=3$订阅源
 CCTV-4,http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265004&livemode=1&stbId=3$订阅源
 CCTV-4,http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000/1000000005000265004/index.m3u8?channel-id=ystenlive&Contentid=1000000005000265004&livemode=1&stbId=no$订阅源
@@ -132,9 +132,10 @@ CCTV-4,http://116.9.204.242:9901/tsfile/live/0004_1.m3u8$订阅源
 CCTV-4,https://api.olelive.com/dis/live/CCTV4HD/hls.m3u8$订阅源|1920x1080
 CCTV-4,http://36.156.94.111/cucc-livod.ks-cdn.gitv.tv/gitv_live/G_CCTV-4-HQ/G_CCTV-4-HQ.m3u8$订阅源
 CCTV-4,http://202.100.46.58:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
+CCTV-4,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8$订阅源
 CCTV-4,http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/playlist.m3u8$订阅源
 CCTV-4,http://dl.wifi942.com:66/jsyd/jsyd.php?id=G_CCTV-4-HD-265-8M$订阅源
-CCTV-4,http://120.76.248.139/live/bfgd/4200000063.m3u8$订阅源|1920x1080
+CCTV-4,http://120.76.248.139/live/bfgd/4200000063.m3u8$订阅源
 CCTV-4,http://202.100.46.58:9901/tsfile/live/1003_1.m3u8$订阅源
 CCTV-4,http://116.128.242.83:9901/tsfile/live/0004_1.m3u8$订阅源
 CCTV-4,http://61.138.128.226:19901/tsfile/live/0004_1.m3u8$订阅源
@@ -154,6 +155,7 @@ CCTV-4,http://116.9.204.242:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&a
 CCTV-4,http://183.11.239.36:808/hls/77/index.m3u8$订阅源
 CCTV-4,http://58.17.116.69:9908/tsfile/live/0001_4.m3u8?key=txiptv&playlive=1&authid=0$订阅源
 CCTV-4,http://61.156.228.12:8154/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
+CCTV-4,http://122.9.151.210:887/rtp/238.255.2.92:5999$组播源
 CCTV-4,http://122.9.151.210:887/rtp/238.255.2.213:5999$组播源
 CCTV-4,http://122.9.151.210:8088/rtp/238.255.2.92:5999$组播源
 CCTV-4,http://122.9.151.210:8088/rtp/238.255.2.213:5999$组播源
@@ -167,7 +169,7 @@ CCTV-5,http://gslbserv.itv.cmvideo.cn/1000000005000265005/1.m3u8?channel-id=yste
 CCTV-5,http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000//1.m3u8?channel-id=ystenlive&Contentid=1000000005000265005&livemode=1&stbId=3$订阅源
 CCTV-5,https://api.olelive.com/dis/live/CCTV5HD/hls.m3u8$订阅源|1920x1080
 CCTV-5,http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000/1000000003000030177/1.m3u8?channel-id=ystenlive&Contentid=1000000003000030177&livemode=1&stbId=3$订阅源
-CCTV-5,http://120.76.248.139/live/bfgd/4200000064.m3u8$订阅源|1920x1080
+CCTV-5,http://120.76.248.139/live/bfgd/4200000064.m3u8$订阅源
 CCTV-5,http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000/1000000005000265005/index.m3u8?channel-id=ystenlive&Contentid=1000000005000265005&livemode=1&stbId=no$订阅源
 CCTV-5,http://121.33.239.242:9901/tsfile/live/0005_1.m3u8$订阅源
 CCTV-5,http://111.31.22.3/cache.ott.fifalive.itv.cmvideo.cn/000000001000/1000000005000265005/index.m3u8?channel-id=ystenlive&Contentid=1000000005000265005&livemode=1&stbId=no$订阅源
@@ -202,8 +204,8 @@ CCTV-5,http://123.56.129.203:5431/rtp/225.1.8.89:8000$组播源
 CCTV-5+,http://116.128.242.83:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0$北京酒店源
 CCTV-5+,http://61.136.172.236:9901/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
 CCTV-5+,http://58.19.38.162:9901/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
+CCTV-5+,http://59.173.243.210:9901/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
 CCTV-5+,http://122.9.151.210:887/rtp/238.255.2.185:5999$组播源
-CCTV-5+,http://122.9.151.210:2498/rtp/238.255.2.185:5999$组播源
 CCTV-5+,http://111.31.22.3/cache.ott.fifalive.itv.cmvideo.cn/000000001000/1000000005000265016/index.m3u8?channel-id=ystenlive&Contentid=1000000005000265016&livemode=1&stbId=no$订阅源
 CCTV-5+,http://gslbserv.itv.cmvideo.cn/1000000005000265016/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265016&livemode=1&stbId=3$订阅源
 CCTV-5+,http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000/1000000001000018504/1.m3u8?channel-id=ystenlive&Contentid=1000000001000018504&livemode=1&stbId=3$订阅源
@@ -216,7 +218,7 @@ CCTV-5+,http://61.138.128.226:19901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=
 CCTV-5+,http://dl.wifi942.com:66/jsyd/jsyd.php?id=G_CCTV-5PLUS-HD-265-5M$订阅源
 CCTV-5+,http://116.128.242.83:9901/tsfile/live/0005_1.m3u8$订阅源
 CCTV-5+,http://61.138.128.226:19901/tsfile/live/1006_1.m3u8$订阅源
-CCTV-5+,http://120.76.248.139/live/bfgd/4200000246.m3u8$订阅源|1920x1080
+CCTV-5+,http://120.76.248.139/live/bfgd/4200000246.m3u8$订阅源
 CCTV-5+,http://120.197.43.179:9901/tsfile/live/0006_1.m3u8$订阅源
 CCTV-5+,http://58.17.116.69:9908/tsfile/live/0001_6.m3u8$订阅源
 CCTV-5+,http://61.156.228.12:8154/tsfile/live/0016_1.m3u8$订阅源
@@ -224,6 +226,7 @@ CCTV-5+,http://z.b.bkpcp.top/m.php?id=cctv5p$订阅源|1920x1080
 CCTV-5+,http://58.57.40.22:9901/tsfile/live/1005_1.m3u8$订阅源
 CCTV-5+,http://58.17.116.69:9908/tsfile/live/0001_6.m3u8?key=txiptv&playlive=1&authid=0$订阅源
 CCTV-5+,http://61.156.228.12:8154/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
+CCTV-5+,http://122.9.151.210:2498/rtp/238.255.2.185:5999$组播源
 CCTV-5+,http://122.9.151.210:8088/rtp/238.255.2.185:5999$组播源
 CCTV-6,http://116.128.242.83:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0$北京酒店源
 CCTV-6,http://61.136.172.236:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
@@ -265,7 +268,7 @@ CCTV-7,http://116.128.242.83:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&
 CCTV-7,http://110.53.218.182:9902/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0$湖南酒店源
 CCTV-7,http://110.53.218.182:9902udp://@238.0.0.1:8007$湖南酒店源
 CCTV-7,http://58.19.38.162:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
-CCTV-7,http://122.9.151.210:887/rtp/238.255.2.12:5999$组播源
+CCTV-7,http://59.173.243.210:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
 CCTV-7,http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000//1.m3u8?channel-id=ystenlive&Contentid=1000000001000024341&livemode=1&stbId=3$订阅源
 CCTV-7,http://gslbserv.itv.cmvideo.cn/1000000005000265007/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265007&livemode=1&stbId=3$订阅源
 CCTV-7,http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000/1000000005000265007/index.m3u8?channel-id=ystenlive&Contentid=1000000005000265007&livemode=1&stbId=no$订阅源
@@ -290,6 +293,7 @@ CCTV-7,http://58.17.116.69:9908/tsfile/live/0001_8.m3u8?key=txiptv&playlive=1&au
 CCTV-7,http://202.100.46.58:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
 CCTV-7,http://1.183.141.194:8001/hls/7/index.m3u8$订阅源
 CCTV-7,http://116.9.204.242:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
+CCTV-7,http://122.9.151.210:887/rtp/238.255.2.12:5999$组播源
 CCTV-7,http://122.9.151.210:8088/rtp/238.255.2.12:5999$组播源
 CCTV-8,http://116.128.242.83:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0$北京酒店源
 CCTV-8,http://61.136.172.236:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
@@ -305,7 +309,7 @@ CCTV-8,https://api.olelive.com/dis/live/CCTV8HD/hls.m3u8$订阅源|1920x1080
 CCTV-8,http://36.156.94.111/cucc-livod.ks-cdn.gitv.tv/gitv_live/G_CCTV-8-HQ/G_CCTV-8-HQ.m3u8$订阅源
 CCTV-8,http://61.136.172.236:9901/tsfile/live/0008_1.m3u8$订阅源
 CCTV-8,http://58.17.48.228:808/hls/8/index.m3u8$订阅源
-CCTV-8,http://120.76.248.139/live/bfgd/4200000066.m3u8$订阅源|1920x1080
+CCTV-8,http://120.76.248.139/live/bfgd/4200000066.m3u8$订阅源
 CCTV-8,http://202.100.46.58:9901/tsfile/live/1007_1.m3u8$订阅源
 CCTV-8,http://dl.wifi942.com:66/jsyd/jsyd.php?id=G_CCTV-8-AVS-4K264$订阅源
 CCTV-8,http://218.3.138.25:1111/tsfile/live/1007_1.m3u8$订阅源
@@ -342,7 +346,7 @@ CCTV-9,http://116.9.204.242:9901/tsfile/live/0009_1.m3u8$订阅源
 CCTV-9,https://api.olelive.com/dis/live/CCTV9HD/hls.m3u8$订阅源|1920x1080
 CCTV-9,http://202.100.46.58:9901/tsfile/live/1008_1.m3u8$订阅源
 CCTV-9,http://36.156.94.111/cucc-livod.ks-cdn.gitv.tv/gitv_live/G_CCTV-9-HQ/G_CCTV-9-HQ.m3u8$订阅源
-CCTV-9,http://120.76.248.139/live/bfgd/4200000128.m3u8$订阅源|1920x1080
+CCTV-9,http://120.76.248.139/live/bfgd/4200000128.m3u8$订阅源
 CCTV-9,http://61.136.172.236:9901/tsfile/live/0009_1.m3u8$订阅源
 CCTV-9,http://58.17.48.228:808/hls/9/index.m3u8$订阅源
 CCTV-9,https://node1.olelive.com:6443/live/CCTV9HD/hls.m3u8$订阅源
@@ -416,7 +420,7 @@ CCTV-11,http://61.136.172.236:9901/tsfile/live/0011_1.m3u8$订阅源
 CCTV-11,http://202.100.46.58:9901/tsfile/live/1012_1.m3u8$订阅源
 CCTV-11,http://dl.wifi942.com:66/jsyd/jsyd.php?id=G_CCTV-11-HQ$订阅源
 CCTV-11,http://116.128.242.83:9901/tsfile/live/0012_1.m3u8$订阅源
-CCTV-11,http://120.76.248.139/live/bfgd/4200000130.m3u8$订阅源|1920x1080
+CCTV-11,http://120.76.248.139/live/bfgd/4200000130.m3u8$订阅源
 CCTV-11,http://61.138.128.226:19901/tsfile/live/0011_2.m3u8$订阅源
 CCTV-11,http://61.156.228.12:8154/tsfile/live/0011_1.m3u8$订阅源
 CCTV-11,http://z.b.bkpcp.top/m.php?id=cctv11$订阅源|1920x1080
@@ -448,7 +452,7 @@ CCTV-12,http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000/100000
 CCTV-12,http://61.136.172.236:9901/tsfile/live/0012_1.m3u8$订阅源
 CCTV-12,http://dl.wifi942.com:66/jsyd/jsyd.php?id=HD-8000k-1080P-cctv12$订阅源
 CCTV-12,http://116.128.242.83:9901/tsfile/live/0013_1.m3u8$订阅源
-CCTV-12,http://120.76.248.139/live/bfgd/4200000131.m3u8$订阅源|1920x1080
+CCTV-12,http://120.76.248.139/live/bfgd/4200000131.m3u8$订阅源
 CCTV-12,http://61.138.128.226:19901/tsfile/live/0013_1.m3u8$订阅源
 CCTV-12,http://120.197.43.179:9901/tsfile/live/0013_1.m3u8$订阅源
 CCTV-12,http://61.156.228.12:8154/tsfile/live/0012_1.m3u8$订阅源
@@ -515,7 +519,7 @@ CCTV-14,http://61.136.172.236:9901/tsfile/live/0014_1.m3u8$订阅源
 CCTV-14,https://hlszymgsplive.miguvideo.com/wd_r2/2018/ocn/cctv14hd/1000/01.m3u8?msisdn=7e715b9439b77a669c6c56bc620c9742&mdspid=&spid=699004&netType=0&sid=5500212875&pid=2028597139&timestamp=20241123095648&Channel_ID=0131_10010001005&ProgramID=624878440&ParentNodeID=-99&assertID=5500212875&client_ip=140.249.97.59&SecurityKey=20241123095648&promotionId=&mvid=5100001697&mcid=500020&playurlVersion=WX-A1-7.11.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgsph5&tid=h5&mtv_session=a299ad58ff201b0484f7b01a004a9650&sv=10000&ct=h5&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=d2d6554ad49324d42f04c5ee35489677$订阅源
 CCTV-14,http://58.17.48.228:808/hls/14/index.m3u8$订阅源
 CCTV-14,http://dl.wifi942.com:66/jsyd/jsyd.php?id=HD-8000k-1080P-cctv14$订阅源
-CCTV-14,http://120.76.248.139/live/bfgd/4200000132.m3u8$订阅源|1920x1080
+CCTV-14,http://120.76.248.139/live/bfgd/4200000132.m3u8$订阅源
 CCTV-14,http://116.128.242.83:9901/tsfile/live/0015_1.m3u8$订阅源
 CCTV-14,http://110.53.218.182:9902/tsfile/live/0014_1.m3u8$订阅源
 CCTV-14,http://61.138.128.226:19901/tsfile/live/0015_1.m3u8$订阅源
@@ -549,7 +553,7 @@ CCTV-15,http://202.100.46.58:9901/tsfile/live/1015_1.m3u8$订阅源
 CCTV-15,http://111.31.22.3/cache.ott.fifalive.itv.cmvideo.cn/000000001000/1000000005000265014/index.m3u8?channel-id=ystenlive&Contentid=1000000005000265014&livemode=1&stbId=no$订阅源
 CCTV-15,http://36.156.94.111/cucc-livod.ks-cdn.gitv.tv/gitv_live/G_CCTV-15-HQ/G_CCTV-15-HQ.m3u8$订阅源
 CCTV-15,http://61.136.172.236:9901/tsfile/live/0015_1.m3u8$订阅源
-CCTV-15,http://120.76.248.139/live/bfgd/4200000133.m3u8$订阅源|1920x1080
+CCTV-15,http://120.76.248.139/live/bfgd/4200000133.m3u8$订阅源
 CCTV-15,http://dl.wifi942.com:66/jsyd/jsyd.php?id=G_CCTV-15$订阅源
 CCTV-15,http://116.128.242.83:9901/tsfile/live/0016_1.m3u8$订阅源
 CCTV-15,http://120.197.43.179:9901/tsfile/live/0016_1.m3u8$订阅源
@@ -566,6 +570,7 @@ CCTV-15,http://1.183.141.194:8001/hls/15/index.m3u8$订阅源
 CCTV-15,http://61.156.228.12:8154/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
 CCTV-15,http://122.9.151.210:887/rtp/238.255.2.18:5999$组播源
 CCTV-15,http://122.9.151.210:8088/rtp/238.255.2.18:5999$组播源
+CCTV-16,http://59.173.243.210:9901/tsfile/live/1036_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
 CCTV-16,http://122.9.151.210:887/rtp/238.255.2.219:5999$组播源
 CCTV-16,http://122.9.151.210:2498/rtp/238.255.2.219:5999$组播源
 CCTV-16,http://122.9.151.210:8088/rtp/238.255.2.219:5999$组播源
@@ -585,6 +590,7 @@ CCTV-16,http://58.17.116.69:9908/tsfile/live/0001_17.m3u8?key=txiptv&playlive=1&
 CCTV-16,http://58.17.116.69:9908/tsfile/live/0001_17.m3u8$订阅源
 CCTV-16,http://202.100.46.58:9901/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
 CCTV-16,http://183.11.239.36:808/hls/169/index.m3u8$订阅源
+CCTV-17,http://59.173.243.210:9901/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
 CCTV-17,http://122.9.151.210:887/rtp/238.255.2.137:5999$组播源
 CCTV-17,http://122.9.151.210:8088/rtp/238.255.2.137:5999$组播源
 CCTV-17,http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000//1.m3u8?channel-id=ystenlive&Contentid=1000000005000265015&livemode=1&stbId=3$订阅源
@@ -594,7 +600,7 @@ CCTV-17,http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000/100000
 CCTV-17,http://gslbserv.itv.cmvideo.cn/1000000005000265015/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265015&livemode=1&stbId=3$订阅源
 CCTV-17,http://36.156.94.111/cucc-livod.ks-cdn.gitv.tv/gitv_live/G_CCTV-17-HQ/G_CCTV-17-HQ.m3u8$订阅源
 CCTV-17,https://api.olelive.com/dis/live/CCTV17HD/hls.m3u8$订阅源|1920x1080
-CCTV-17,http://120.76.248.139/live/bfgd/4200000204.m3u8$订阅源|1920x1080
+CCTV-17,http://120.76.248.139/live/bfgd/4200000204.m3u8$订阅源
 CCTV-17,http://dl.wifi942.com:66/jsyd/jsyd.php?id=G_CCTV-17-HD$订阅源
 CCTV-17,http://61.156.228.12:8154/tsfile/live/0019_1.m3u8$订阅源
 CCTV-17,http://58.17.116.69:9908/tsfile/live/0001_18.m3u8$订阅源
